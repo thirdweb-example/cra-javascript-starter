@@ -26,7 +26,7 @@ on `src/App.js`, you'll find the `useMetamask` hook that we use to connect the u
 
 ## Learn More
 
-To learn more about thirdweb and Next.js, take a look at the following resources:
+To learn more about thirdweb, React and CRA, take a look at the following resources:
 
 - [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
 - [thirdweb TypeScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
