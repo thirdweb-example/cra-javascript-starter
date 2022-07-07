@@ -3,7 +3,7 @@
 Create a project using this example:
 
 ```bash
-npx thirdweb create --example cra-javascript-starter
+npx thirdweb create --template cra-javascript-starter
 ```
 
 You can start editing the page by modifying `src/index.js`. The page auto-updates as you edit the file.
