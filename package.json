@@ -7,15 +7,15 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.4.3",
-    "@thirdweb-dev/react": "^3",
-    "@thirdweb-dev/sdk": "^3",
+    "@thirdweb-dev/react": "^3.9.0",
+    "@thirdweb-dev/sdk": "^3.9.0",
     "ethers": "^5.7.2",
     "react": "^18.2",
     "react-dom": "^18.2",
     "react-scripts": "^5.0.1",
     "web-vitals": "^3.1.0"
   },
-   "devDependencies": {
+  "devDependencies": {
     "assert": "^2.0.0",
     "react-app-rewired": "^2.2.1",
     "stream": "^0.0.2"
