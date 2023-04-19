@@ -1,6 +1,6 @@
 ## Getting Started
 
-Create a project using this example:
+Create a project using this example123:
 
 ```bash
 npx thirdweb create --template cra-javascript-starter
