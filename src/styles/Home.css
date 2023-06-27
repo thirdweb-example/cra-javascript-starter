@@ -77,9 +77,9 @@
 }
 
 .code {
-  background: #fafafa;
+  background: #555;
   border-radius: 5px;
-  padding: 0.75rem;
+  padding: 0.5em;
   font-size: 1.1rem;
 }
 
@@ -147,14 +147,15 @@
     width: 100%;
     flex-direction: column;
   }
+  .title {
+    font-size: 3rem;
+    line-height: 1.15;
+  }
 }
 
 .card,
 .footer {
   border-color: #222;
-}
-.code {
-  background: #111;
 }
 .logo img {
   filter: invert(1);
