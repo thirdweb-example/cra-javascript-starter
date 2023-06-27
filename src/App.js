@@ -35,7 +35,7 @@ export default function Home() {
             <div className="card-text">
               <h2 className="gradient-text-1">Portal ➜</h2>
               <p>
-                Guides, references and resources that will help you build with
+                Guides, references, and resources that will help you build with
                 thirdweb.
               </p>
             </div>
@@ -48,12 +48,12 @@ export default function Home() {
             ></img>
             <h2 className="gradient-text-2">Dashboard ➜</h2>
             <p>
-              Deploy, configure and manage your smart contracts from the
+              Deploy, configure, and manage your smart contracts from the
               dashboard.
             </p>
           </a>
 
-          <a href="https://portal.thirdweb.com/templates" className="card">
+          <a href="https://thirdweb.com/templates" className="card">
             <img
               src="/images/templates-preview.png"
               alt="Placeholder preview of templates"
