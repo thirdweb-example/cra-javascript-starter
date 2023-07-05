@@ -3,10 +3,6 @@
   min-height: 100vh;
   height: auto;
   padding: 4rem 0;
-  /* flex: 1; */
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* justify-content: left; */
 }
 
 .container {
@@ -16,35 +12,31 @@
   margin: 0 auto;
 }
 
-.header {
-  /* margin-left: 4rem; */
-}
-
 .gradient-text-0 {
-  background: -webkit-linear-gradient(#BFA3DA, #84309C, #C735B0);
+  background: -webkit-linear-gradient(#bfa3da, #84309c, #c735b0);
   -webkit-background-clip: text;
-    background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .gradient-text-1 {
   background: -webkit-linear-gradient(#a79af9, #7aa8d2);
   -webkit-background-clip: text;
-    background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .gradient-text-2 {
   background: -webkit-linear-gradient(#bfa3da, #743f93);
   -webkit-background-clip: text;
-    background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .gradient-text-3 {
   background: -webkit-linear-gradient(#c35ab1, #e9a8d9);
   -webkit-background-clip: text;
-    background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -52,7 +44,7 @@
 .title a:focus,
 .title a:active {
   text-decoration: underline;
-  text-decoration-color: #84309C;
+  text-decoration-color: #84309c;
 }
 
 .title {
@@ -112,7 +104,7 @@
   height: auto;
   border-radius: 4px 4px 0 0;
   margin-bottom: 12px;
-  border: none; /* Remove image border */
+  border: none;
 }
 
 .card:hover,
@@ -124,14 +116,12 @@
 
 .card h2 {
   margin: 0 0 0.75rem 0;
-  /* padding: 1rem; */
 }
 
 .card p {
   margin: 0;
   font-size: 1rem;
   line-height: 1.75;
-  /* padding: 1rem; */
 }
 
 .logo {
