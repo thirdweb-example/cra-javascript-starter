@@ -26,12 +26,7 @@ export default function Home() {
           </p>
 
           <div className="connect">
-            <ConnectWallet
-              dropdownPosition={{
-                side: "bottom",
-                align: "center",
-              }}
-            />
+            <ConnectWallet />
           </div>
         </div>
 
